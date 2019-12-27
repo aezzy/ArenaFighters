@@ -1,0 +1,11 @@
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\obj\Debug\netcoreapp3.0\Arena_Fighters.csprojAssemblyReference.cache
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\obj\Debug\netcoreapp3.0\Arena_Fighters.AssemblyInfoInputs.cache
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\obj\Debug\netcoreapp3.0\Arena_Fighters.AssemblyInfo.cs
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\bin\Debug\netcoreapp3.0\Arena_Fighters.exe
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\bin\Debug\netcoreapp3.0\Arena_Fighters.deps.json
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\bin\Debug\netcoreapp3.0\Arena_Fighters.runtimeconfig.json
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\bin\Debug\netcoreapp3.0\Arena_Fighters.runtimeconfig.dev.json
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\bin\Debug\netcoreapp3.0\Arena_Fighters.dll
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\bin\Debug\netcoreapp3.0\Arena_Fighters.pdb
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\obj\Debug\netcoreapp3.0\Arena_Fighters.dll
+C:\Users\Lexicon\source\repos\Arena_Fighters\Arena_Fighters\obj\Debug\netcoreapp3.0\Arena_Fighters.pdb
